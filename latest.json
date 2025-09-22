@@ -1,0 +1,11 @@
+{
+	"version": "0.1.0",
+	"notes": "Initial Release of Nova",
+	"pub_date": "2025-09-23T00:00:00+05:30",
+	"platforms": {
+		"windows-x86_64": {
+			"signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRRDVkWEMyZ1V4SFNucFVPRzhjOWY4V0Vxcjh2V2dtd1FDVG9iR1dxbnlTMlFvVW5KbUQwOFZ1UnhkWWVrcUQ3WEQ0T0RvbG1LaXJDSGZxa1hBVmZjQXllZW03YmtpS3dVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzU4NTM1Mzg5CWZpbGU6Tm92YV8wLjEuMF94NjRfZW4tVVMubXNpCmNqek9CcjlCVlhYb3ZhYm9oVldSOWZVWlFBRHY0MXdFVGIzRUVoc3dOZVBVNGVQM0VZRXN2MWNQdmU0SkE1azE2cG9SbkdJdVNxMWNlMzFmd21GSkNRPT0K",
+			"url": "https://github.com/HelloNovaAI/nova/releases/download/0.1.0/Nova_0.1.0_x64_en-US.msi.zip"
+		}
+	}
+}
